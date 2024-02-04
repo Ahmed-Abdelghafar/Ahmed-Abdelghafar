@@ -5,10 +5,9 @@
 </p>
 
 ## 🌐 Socials :
->[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/Ahmed.m.AbdulGhaffar) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmed-mohamed10136) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19674145/ahmed-mohamed) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ahmedMohamed10136) 
+>[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Ahmed.m.AbdulGhaffar?mibextid=kFxxJD) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-mohamed10136) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ahmedMohamed10136) 
  <a href="https://wa.me/201151101537" target="_blank"><img style="height:20px" src="https://img.shields.io/badge/-Ahmed%20Mohamed-238636?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>  
 <br>
 
